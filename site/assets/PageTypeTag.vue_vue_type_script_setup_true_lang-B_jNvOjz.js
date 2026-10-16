@@ -1,1 +1,0 @@
-import{d as a,o as t,a as s,y as n,a7 as o}from"./modules/vue-b4xSmC_r.js";import{u as p}from"./slidev/context-BQlOYsGL.js";const l=a({__name:"PageTypeTag",props:{kind:{}},setup(e){return p(),(r,i)=>(t(),s("span",{class:o(["page-type-tag",`page-type--${e.kind.toLowerCase()}`])},n(e.kind),3))}});export{l as _};
