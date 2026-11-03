@@ -1,0 +1,1 @@
+import{d as e,o,a as n,y as t,a7 as r}from"./modules/vue-Pk8VB2NF.js";import{u as p}from"./slidev/context-BC3sCLDp.js";const _=e({__name:"Tag",props:{kind:{}},setup(a){p();const s=a;return(i,c)=>(o(),n("span",{class:r(["lesson-tag",`lesson-tag--${s.kind.toLowerCase()}`])},t(s.kind),3))}});export{_};
