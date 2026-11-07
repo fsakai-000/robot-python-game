@@ -1,0 +1,1 @@
+import{at as n}from"./index-DRCj1uf2.js";const s="https://docs.google.com/presentation/";function i(o){const r=n.find(e=>e.id===o);if(!r)throw new Error("日記のLessonが公開名の正本にありません: "+o);return{lessonNumber:o.replace("month","Month"),lessonTitle:r.title,diaryUrl:s,diaryMode:"learning"}}export{s as a,i as l};
